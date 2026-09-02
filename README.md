@@ -66,6 +66,3 @@ Tests use JUnit 5, Mockito, Spring Security Test and H2. Run:
 ```bash
 mvn test
 ```
-
-## Submission
-The supplied assignment explicitly says to create a **public GitHub repository**, push the complete source, include README/Docker files, and submit **only the GitHub repository URL**; it also explicitly says not to submit a ZIP. This ZIP is provided as a convenient local copy, but GitHub is the expected final submission method.
